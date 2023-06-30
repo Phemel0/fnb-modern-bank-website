@@ -4,7 +4,12 @@ import { navLinks } from '../constants/constants';
 
 const Navbar = () => {
   return (
-    <div>Navbar</div>
+    <nav className='w-full flex py-6 justify-between navbar'>
+        <img src={logo} alt="hoobank" className='w-[124px] h-[32px]'/>
+        <ul className="list-none sm:flex hidden justify-end items-center">
+
+        </ul>
+    </nav>
   )
 }
 
