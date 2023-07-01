@@ -20,4 +20,4 @@ export {
     Footer,
     Testimonials,
     Hero,
-}
+};
