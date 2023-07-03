@@ -1,9 +1,9 @@
-import React from "react"
+import React from 'react'
 
 const Billing = () => {
-    return (
+  return (
     <div>Billing</div>
-    )
+  )
 }
 
 export default Billing
