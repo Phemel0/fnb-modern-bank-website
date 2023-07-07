@@ -23,9 +23,7 @@ const Hero = () => (
         </div>
       </div>
     </div>
-    
   </section>
-
 )
 
 export default Hero
